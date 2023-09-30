@@ -1,1 +1,5 @@
-print Hello World
+print("Hello World")
+
+Robercik = "Kozak"
+
+print(Robercik)
