@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 ## CHuj w dupe stefce aye
 ## I Andrzejowi też
 ## Ja tam lubie andrzejas
+## czemu to nie działą do kurwy
 
 class Strategy:
 
