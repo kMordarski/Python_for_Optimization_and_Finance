@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 ## I Andrzejowi też
 ## Ja tam lubie andrzejas
 ## czemu to nie działą do kurwy
+## Próba kolejna
 
 class Strategy:
 
