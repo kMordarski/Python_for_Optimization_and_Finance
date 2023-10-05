@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 ## Ja tam lubie andrzejas
 ## czemu to nie działą do kurwy
 ## Próba kolejna
+## Oby ostatnia
 
 class Strategy:
 
