@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-## CHuj w dupe stefce
+## CHuj w dupe stefce aye
 
 class Strategy:
 
